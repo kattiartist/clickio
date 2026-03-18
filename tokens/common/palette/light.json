@@ -1,9 +1,9 @@
 {
   "grey": {
-    "0": {
+    "100": {
       "value": "#FFFFFF",
       "type": "color"
-          },
+    },
     "200": {
       "value": "#F2F3F6",
       "type": "color"
@@ -163,34 +163,34 @@
     "400": {
       "value": "#FF7A00",
       "type": "color"
-   }
+    }
   },
   "sea": {
     "600": {
       "value": "#0042ED",
       "type": "color"
-   }
+    }
   },
   "burgundy": {
     "100": {
       "value": "#CAC0C3",
       "type": "color"
-  },
+    },
     "200": {
       "value": "#836C74",
       "type": "color"
-  },
+    },
     "300": {
       "value": "#3B2B3A",
-      "type": "color"   
-  },
+      "type": "color"
+    },
     "400": {
       "value": "#4E2C38",
-      "type": "color"    
-  },
+      "type": "color"
+    },
     "500": {
       "value": "#391D27",
-      "type": "color"  
+      "type": "color"
     }
   }
 }
