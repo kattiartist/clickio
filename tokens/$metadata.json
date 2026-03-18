@@ -6,6 +6,7 @@
     "common/spacing/spacing",
     "common/stroke/stroke",
     "common/palette/light",
+    "common/theme/light",
     "common/typography/core",
     "common/effect/shadow",
     "component/button",
