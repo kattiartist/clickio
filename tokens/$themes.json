@@ -2483,7 +2483,8 @@
     "selectedTokenSets": {
       "common/palette/light": "enabled",
       "common/theme/light": "enabled",
-      "common/effect/shadow": "enabled"
+      "common/effect/shadow": "enabled",
+      "common/effect/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:28:1219",
     "$figmaModeId": "28:2",

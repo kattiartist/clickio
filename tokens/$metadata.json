@@ -9,6 +9,7 @@
     "common/theme/light",
     "common/typography/core",
     "common/effect/shadow",
+    "common/effect/light",
     "component/button",
     "component/checkbox",
     "component/input",
