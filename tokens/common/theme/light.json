@@ -63,6 +63,26 @@
     "static-dark-secondary": {
       "value": "rgba(0,0,0,0.4)",
       "type": "color"
+   },
+    "surface-light": {
+      "value": "{burgundy.100}",
+      "type": "color"
+    },
+    "surface-regular": {
+      "value": "{burgundy.200}",
+      "type": "color"
+   },
+    "surface-medium": {
+      "value": "{burgundy.300}",
+      "type": "color"
+   },
+    "surface-dark": {
+      "value": "{burgundy.400}",
+      "type": "color"
+   },
+    "surface-rich-dark": {
+      "value": "{burgundy.500}",
+      "type": "color"
     }
   },
   "background": {
