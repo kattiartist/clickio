@@ -181,6 +181,10 @@
     "negative-primary": {
       "value": "{rose.600}",
       "type": "color"
+    },
+    "surface-light": {
+      "value": "{burgundy.200}",
+      "type": "color"
     }
   },
   "layer": {
