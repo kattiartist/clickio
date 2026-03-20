@@ -1,6 +1,6 @@
 {
   "grey": {
-    "100": {
+    "0": {
       "value": "#FFFFFF",
       "type": "color"
     },
@@ -156,6 +156,18 @@
   "marshmallow": {
     "100": {
       "value": "#FDF3FF",
+      "type": "color"
+    },
+    "200": {
+      "value": "#F5B7FF",
+      "type": "color"
+    },
+    "300": {
+      "value": "#D948F0",
+      "type": "color"
+    },
+    "400": {
+      "value": "#C117DD",
       "type": "color"
     }
   },
