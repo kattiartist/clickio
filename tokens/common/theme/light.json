@@ -45,11 +45,11 @@
       "type": "color"
     },
     "neutral-primary-inverted": {
-      "value": "{grey.0}",
+      "value": "{grey.100}",
       "type": "color"
     },
     "static-light-primary": {
-      "value": "{grey.0}",
+      "value": "{grey.100}",
       "type": "color"
     },
     "static-light-secondary": {
@@ -165,7 +165,7 @@
   },
   "layer": {
     "floor": {
-      "value": "{grey.0}",
+      "value": "{grey.100}",
       "type": "color"
     },
     "floor-overlay": {
@@ -173,7 +173,7 @@
       "type": "color"
     },
     "floor-2": {
-      "value": "{grey.0}",
+      "value": "{grey.100}",
       "type": "color"
     },
     "floor-scrim": {
