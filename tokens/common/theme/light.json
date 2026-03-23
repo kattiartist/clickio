@@ -149,7 +149,7 @@
       "type": "color"
     },
     "warning": {
-      "value": "rgba(210,172,38,0.3)",
+      "value": "rgba(210,172,38,0.1)",
       "type": "color"
     },
     "negative": {
