@@ -102,6 +102,10 @@
       "value": "{kiwi.600}",
       "type": "color"
     },
+    "info-primary": {
+      "value": "{blueberry.700}",
+      "type": "color"
+    },
     "warning-bright": {
       "value": "{sand.400}",
       "type": "color"
@@ -176,6 +180,10 @@
     },
     "light": {
       "value": "{grey.400}",
+      "type": "color"
+    },
+    "info-primary": {
+      "value": "{blueberry.700}",
       "type": "color"
     },
     "positive-primary": {
