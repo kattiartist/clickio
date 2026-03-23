@@ -94,10 +94,6 @@
       "value": "{grey.600}",
       "type": "color"
     },
-    "lighter": {
-      "value": "{grey.400}",
-      "type": "color"
-    },
     "positive-bright": {
       "value": "{kiwi.500}",
       "type": "color"
@@ -146,6 +142,10 @@
     },
     "positive": {
       "value": "rgba(0,173,152,0.3)",
+      "type": "color"
+    },
+    "light": {
+      "value": "rgba(86,91,113,0.1)",
       "type": "color"
     },
     "warning": {
