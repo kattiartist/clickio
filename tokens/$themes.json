@@ -2493,7 +2493,8 @@
       "component/input": "enabled",
       "component/textarea": "enabled",
       "component/select": "enabled",
-      "component/checkbox": "enabled"
+      "component/checkbox": "enabled",
+      "component/alert": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:28:1219",
     "$figmaModeId": "28:2",
