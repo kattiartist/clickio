@@ -90,6 +90,14 @@
       "value": "{grey.800}",
       "type": "color"
     },
+    "light": {
+      "value": "{grey.600}",
+      "type": "color"
+    },
+    "lighter": {
+      "value": "{grey.400}",
+      "type": "color"
+    },
     "positive-bright": {
       "value": "{kiwi.500}",
       "type": "color"
