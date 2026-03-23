@@ -17,7 +17,7 @@
       },
       "icon": {
         "size": {
-          "value": "{selection-control.400.icon.size}",
+          "value": "{selection-control.500.icon.size}",
           "type": "number"
         }
       }
