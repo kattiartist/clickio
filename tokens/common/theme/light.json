@@ -160,6 +160,10 @@
       "value": "rgba(188,16,1,0.1)",
       "type": "color"
     },
+    "info": {
+      "value": "rgba(24,142,234,0.3)",
+      "type": "color"
+    },
     "static-light": {
       "value": "rgba(255,255,255,0.3)",
       "type": "color"
