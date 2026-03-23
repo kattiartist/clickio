@@ -10,7 +10,7 @@
         "type": "number"
       },
       "border-radius": {
-        "value": "{radius.150}",
+        "value": "8",
         "type": "number"
       }
     }
