@@ -2494,7 +2494,8 @@
       "component/textarea": "enabled",
       "component/select": "enabled",
       "component/checkbox": "enabled",
-      "component/alert": "enabled"
+      "component/alert": "enabled",
+      "component/radio": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:28:1219",
     "$figmaModeId": "28:2",
