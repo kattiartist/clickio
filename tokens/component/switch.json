@@ -14,11 +14,11 @@
         "type": "number"
       },
       "padding-horizontal": {
-        "value": "{spacing.200}",
+        "value": "{spacing.250}",
         "type": "number"
       },
       "padding-vertical": {
-        "value": "{spacing.200}",
+        "value": "{spacing.250}",
         "type": "number"
       },
       "knob": {
