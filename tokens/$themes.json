@@ -2484,7 +2484,16 @@
       "common/palette/light": "enabled",
       "common/theme/light": "enabled",
       "common/effect/shadow": "enabled",
-      "common/effect/light": "enabled"
+      "common/effect/light": "enabled",
+      "shared/base-component": "enabled",
+      "shared/control-contained": "enabled",
+      "shared/control-ghost": "enabled",
+      "shared/selection-control": "enabled",
+      "component/button": "enabled",
+      "component/input": "enabled",
+      "component/textarea": "enabled",
+      "component/select": "enabled",
+      "component/checkbox": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:28:1219",
     "$figmaModeId": "28:2",
