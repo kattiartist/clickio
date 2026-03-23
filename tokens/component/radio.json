@@ -1,23 +1,5 @@
 {
   "radio": {
-    "400": {
-      "frame": {
-        "size": {
-          "value": "{selection-control.400.frame.size}",
-          "type": "number"
-        },
-        "border-width": {
-          "value": "{selection-control.400.frame.border-width}",
-          "type": "number"
-        }
-      },
-      "icon": {
-        "size": {
-          "value": "{selection-control.200.icon.size}",
-          "type": "number"
-        }
-      }
-    },
     "500": {
       "frame": {
         "size": {
