@@ -10,7 +10,7 @@
         "type": "number"
       },
       "border-radius": {
-        "value": "8",
+        "value": "{control-contained.500.frame.border-radius}",
         "type": "number"
       }
     }
