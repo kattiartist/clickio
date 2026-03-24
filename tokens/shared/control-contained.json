@@ -7,7 +7,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{stroke.150}",
+          "value": "{stroke.100}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -37,7 +37,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{stroke.150}",
+          "value": "{stroke.100}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -67,7 +67,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{stroke.150}",
+          "value": "{stroke.100}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -97,7 +97,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{stroke.150}",
+          "value": "{stroke.100}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -127,7 +127,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{stroke.150}",
+          "value": "{stroke.100}",
           "type": "number"
         },
         "padding-horizontal": {
