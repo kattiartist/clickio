@@ -73,7 +73,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.999}",
+          "value": "{radius.150}",
           "type": "number"
         },
         "border-width": {
