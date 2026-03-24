@@ -23,7 +23,7 @@
       },
       "knob": {
         "size": {
-          "value": "{base-component.200.icon.size}",
+          "value": "{base-component.100.icon.size}",
           "type": "number"
         },
         "border-radius": {
