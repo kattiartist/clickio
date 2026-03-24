@@ -22,14 +22,14 @@
         }
       }
     },
-    "300": {
+    "250": {
       "frame": {
         "size": {
-          "value": "{size.250}",
+          "value": "{size.350}",
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.50}",
+          "value": "{radius.75}",
           "type": "number"
         },
         "border-width": {
@@ -44,15 +44,30 @@
         }
       }
     },
-    "400": {
+    "300": {
       "frame": {
         "size": {
           "value": "{size.350}",
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.100}",
+          "value": "          "}",
           "type": "number"
+        }        }        }        {
+          "value": "{stroke.100}",
+                          
+        }        }        }    : {
+        "siz        "siz        "si: "        "siz        "siz        "umber"
+        }
+      }
+    },
+    "40 ": {
+                            ze": {
+          "value": "{size.350}",
+                         "
+        },
+        "  rder-radius": {
+          "value":           "value          "type": "number"
         },
         "border-width": {
           "value": "{stroke.100}",

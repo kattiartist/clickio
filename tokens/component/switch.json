@@ -3,7 +3,7 @@
     "100": {
       "frame": {
         "size": {
-          "value": "{selection-control.300.frame.size}",
+          "value": "{selection-control.250.frame.size}",
           "type": "number"
         },
         "border-radius": {
@@ -11,7 +11,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.300.frame.border-width}",
+          "value": "{selection-control.250.frame.border-width}",
           "type": "number"
         },
         "padding-horizontal": {
