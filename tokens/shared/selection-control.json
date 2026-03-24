@@ -47,27 +47,17 @@
     "300": {
       "frame": {
         "size": {
+          "value":          "value":       "type": "number"
+                          -r                    "value": "          0}",
+                                   }                    dth": {                               0}",
+                                   }                        {
+         siz         siz        ue": "         siz         siz    ": "num         siz         siz           40                  siz             siz   
           "value": "{size.350}",
           "type": "number"
         },
-        "border-radius": {
-          "value": "          "}",
+        " order-radius": {
+          "value": "{radius.100}",
           "type": "number"
-        }        }        }        {
-          "value": "{stroke.100}",
-                          
-        }        }        }    : {
-        "siz        "siz        "si: "        "siz        "siz        "umber"
-        }
-      }
-    },
-    "40 ": {
-                            ze": {
-          "value": "{size.350}",
-                         "
-        },
-        "  rder-radius": {
-          "value":           "value          "type": "number"
         },
         "border-width": {
           "value": "{stroke.100}",
@@ -82,24 +72,19 @@
       }
     },
     "500": {
-      "frame": {
+                
         "size": {
-          "value": "{size.400}",
+                            0}",
           "type": "number"
         },
-        "border-radius": {
+             er-radius": {
           "value": "{radius.150}",
           "type": "number"
         },
         "border-width": {
           "value": "{stroke.100}",
           "type": "number"
-        }
-      },
-      "icon": {
-        "size": {
-          "value": "{size.300}",
-          "type": "number"
+                                                                                                         number"
         }
       }
     }
