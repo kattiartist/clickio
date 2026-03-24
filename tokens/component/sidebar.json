@@ -9,7 +9,7 @@
       "type": "spacing"
     },
     "gap": {
-      "value": "{spacing.350}",
+      "value": "{spacing.300}",
       "type": "spacing"
     }
   }
