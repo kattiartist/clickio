@@ -11,7 +11,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.300.frame.border-width}",
+          "value": "{control-contained.300.frame.border-width}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -41,7 +41,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.400.frame.border-width}",
+          "value": "{control-contained.400.frame.border-width}",
           "type": "number"
         },
         "padding-horizontal": {
