@@ -120,6 +120,30 @@
         }
       }
     },
+    "200": {
+      "frame": {
+        "min-size": {
+          "value": "{size.300}",
+          "type": "number"
+        },
+        "label": {
+          "style": {
+            "value": "accent",
+            "type": "other"
+          },
+          "size": {
+            "value": "300",
+            "type": "other"
+          }
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{size.250}",
+          "type": "number"
+        }
+      }
+    },
     "300": {
       "frame": {
         "min-size": {
