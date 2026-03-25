@@ -2495,7 +2495,8 @@
       "component/select": "enabled",
       "component/checkbox": "enabled",
       "component/alert": "enabled",
-      "component/radio": "enabled"
+      "component/radio": "enabled",
+      "figma-only/semantic-text/typography/typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:28:1219",
     "$figmaModeId": "28:2",
