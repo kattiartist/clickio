@@ -7,7 +7,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.100.frame.border-radius}",
+          "value": "{control-contained.999.frame.border-radius}",
           "type": "number"
         },
         "border-width": {
@@ -31,7 +31,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.200.frame.border-radius}",
+          "value": "{control-contained.999.frame.border-radius}",
           "type": "number"
         },
         "border-width": {
@@ -55,7 +55,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.300.frame.border-radius}",
+          "value": "{control-contained.999.frame.border-radius}",
           "type": "number"
         },
         "border-width": {
@@ -79,7 +79,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.400.frame.border-radius}",
+          "value": "{control-contained.999.frame.border-radius}",
           "type": "number"
         },
         "border-width": {
@@ -103,7 +103,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.500.frame.border-radius}",
+          "value": "{control-contained.999.frame.border-radius}",
           "type": "number"
         },
         "border-width": {
