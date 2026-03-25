@@ -17,7 +17,7 @@
           "type": "number"
         },
         "corner-radius": {
-          "value": "{radius.900}",
+          "value": "{radius.150}",
           "type": "number"
         }
       }
@@ -39,7 +39,7 @@
           "type": "number"
         },
         "corner-radius": {
-          "value": "{radius.900}",
+          "value": "{radius.150}",
           "type": "number"
         }
       }
@@ -61,7 +61,7 @@
           "type": "number"
         },
         "corner-radius": {
-          "value": "{radius.900}",
+          "value": "{radius.150}",
           "type": "number"
         }
       }
@@ -83,7 +83,7 @@
           "type": "number"
         },
         "corner-radius": {
-          "value": "{radius.900}",
+          "value": "{radius.150}",
           "type": "number"
         }
       }
