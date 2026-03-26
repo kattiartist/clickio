@@ -224,6 +224,10 @@
       "value": "{grey.0}",
       "type": "color"
     },
+    "floor-3": {
+      "value": "{grey.200}",
+      "type": "color"
+    },
     "floor-scrim": {
       "value": "{overlay.neutral}",
       "type": "color"
